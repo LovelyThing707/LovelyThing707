@@ -23,12 +23,6 @@ Webサイト開発およびブロックチェーン関連プロジェクトに�
 
 ###
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StrongBlue0703&locale=en&hide_title=false&hide=html,MDX,css,PHP,Javascript,makefile,Batchfile,handlebars,shell&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 # 💻 My Main Skills:
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
