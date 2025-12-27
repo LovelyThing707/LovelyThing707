@@ -1,79 +1,97 @@
-###
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full-stack+developer;and+I'm+a+Blockchain+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
-</p>
+# Lovely Thing 👋  
+CEO / CTO @ OHANA-WEB  
+Full-Stack Developer | 12+ Years Experience
 
-<h3 align="center">
-I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
-<br>I have rich experience websites and blockchain projects development.
-</h3>
-<br clear="both">
+はじめまして。  
+GitHubプロフィールをご覧いただきありがとうございます。
 
-###
+私は **OHANA-WEB** の CEO / CTO として、  
+そして **12年以上の実務経験を持つフルスタックエンジニア** として、  
+「人にやさしいWeb」を軸に、数多くのWeb・システム開発プロジェクトに携わってきました。
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LovelyThing707&locale=en&hide_title=false&hide=html,MDX,css,PHP,Javascript,makefile,Batchfile,handlebars,shell&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🌺 OHANA-WEBについて
 
-# 💻 My Main Skills:
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-    <tr>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-            <br>Tailwind
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-            <br>JavaScript
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-            <br>TypeScript
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-            <br>React
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-            <br>Next.js
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-            <br>Vue
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-            <br>Python
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-            <br>Node.js
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-            <br>C++
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-            <br>Solidity
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-            <br>Rust
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-            <br>Go
-        </td>
-    </tr>
-</table>
-<br><br>
-</div>
+**OHANA-WEB** は「人にやさしいWeb」を大切にするWeb制作会社です。  
+「OHANA」という名前は、ハワイ語で **家族** を意味します。
 
-<h2 align="center">Coding is my life! 🌍✨</h2>
+その言葉の通り、私たちは  
+**すべてのお客様を家族のように大切にすること** を理念としています。
+
+Web制作は、専門用語が多く、難しく、堅苦しいものに見えがちですが、  
+私たちが目指しているのは、
+
+> **誰でも気軽に相談できる、わかりやすく、安心できるWeb制作**
+
+です。
+
+単にWebサイトやシステムを作ることがゴールではありません。  
+お客様の想い・背景・目的を丁寧に理解し、  
+それを“形”にし、日常に **安心と温かさ** を届けることが私たちの使命です。
+
+---
+
+## 🤝 私たちが大切にしていること
+
+OHANA-WEBでは、次の姿勢を何よりも大切にしています。
+
+- 難しい専門用語ではなく、**日常の言葉でわかりやすく説明する**
+- 納品で終わらず、**運用・改善まで継続的に寄り添う**
+- ユーザーの立場に立ち、**やさしく・明快で・美しいWeb体験を設計する**
+
+「相談しやすい」「話が通じる」「長く一緒に仕事ができる」  
+そう感じていただける **信頼できるパートナー** でありたいと考えています。
+
+---
+
+## 💻 技術スタック / 専門領域
+
+フロントエンドからバックエンド、インフラ、運用まで  
+**一貫して対応できるフルスタックエンジニア** です。
+
+**主な技術領域：**
+
+- Frontend: React / Next.js / Vue / HTML / CSS / JavaScript / TypeScript
+- Backend: Node.js / Python / PHP / Laravel
+- CMS / EC: WordPress / Shopify / Headless CMS
+- Database: PostgreSQL / MySQL / NoSQL
+- Cloud & Infra: AWS / GCP / Docker / CI/CD
+- その他: SEO設計 / パフォーマンス最適化 / セキュリティ設計
+
+「要件定義 → 設計 → 実装 → デプロイ → 運用」まで  
+**すべてを自分の責任で完結できる** のが強みです。
+
+---
+
+## 🚀 GitHubについて
+
+このGitHubでは、  
+- 実プロジェクトで培った設計思想  
+- 保守性・可読性を重視したコード  
+- 実務で“本当に使える”実装例  
+
+を中心に公開しています。
+
+**品質・安定性・長期運用** を重視した開発スタイルを、  
+ぜひコードから感じ取っていただければ幸いです。
+
+---
+
+## 📩 お仕事のご相談について
+
+Web制作、システム開発、既存サイトの改善、運用相談など、  
+どんな小さなことでもお気軽にご相談ください。
+
+「技術の話がわからなくて不安」  
+「何から始めればいいかわからない」
+
+そんな状態からでも、  
+一緒に整理し、最適な形をご提案します。
+
+---
+
+**人と人をつなぐ、やさしいWebを。**  
+それが、OHANA-WEBと私の変わらない想いです。
+
+どうぞよろしくお願いいたします。
