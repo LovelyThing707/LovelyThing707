@@ -1,29 +1,34 @@
-###
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full-stack+developer;and+I'm+a+Blockchain+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
 </p>
 
+私は**フルスタックエンジニア兼ブロックチェーン開発者**として、  
+Webサイト開発およびブロックチェーン関連プロジェクトにおいて、  
+数多くの実務経験を積んできました。
 
-私はフルスタックエンジニア兼ブロックチェーン開発者として、  
-Webサイト開発およびブロックチェーン関連プロジェクトにおいて、数多くの実務経験を積んできました。
+**「生まれながらに才能を持つ人はいない。  
+努力によってこそ、人は自分が望むすべてを手に入れることができる。」**  
+これが、私の仕事に対する揺るぎない信念です。
 
-**「生まれたときに才能を持って生まれた人はいない。ただ一つ、努力としてだけ自分が望むすべてを取得することができる。」**  
-これが私のモットーです。
+常に自身のスキルを客観的に見つめ、  
+現状に満足することなく、成長し続ける姿勢こそが、  
+本当の意味での成功につながると考えています。
 
-常に自分の実力を客観的に分析し、  
-成長のために継続して努力しなければ、本当の成功の価値は感じられないと考えています。
+これまでのキャリアにおいても、  
+この価値観を大切にしながら、あらゆるプロジェクトに真摯に向き合ってきました。  
+どのような業務であっても全力を尽くし、  
+困難な課題に直面した場合でも、決して恐れず前向きに解決へと導きます。
 
-私はこれまで、常にこの考え方を大切にしながら仕事に向き合ってきました。  
-どのような業務に対しても全力を尽くし、  
-困難な課題に直面しても決して恐れず、前向きに乗り越える姿勢を持っています。
+たとえ高い難易度や複雑な要件を伴うプロジェクトであっても、  
+最後まで責任を持って取り組み、  
+**期限内に高品質な成果物を完成させることをお約束します。**
 
-たとえプロジェクトに高い難易度や課題があったとしても、  
-最後まで諦めず、定められた期間内に**高品質な成果物を完成させること**をお約束します。
 <br clear="both">
 
 ###
 
-# 💻 My Main Skills:
+# 💻 主なスキル
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
     <tr>
@@ -32,49 +37,49 @@ Webサイト開発およびブロックチェーン関連プロジェクトに�
             <br>Tailwind
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
             <br>JavaScript
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
             <br>TypeScript
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
             <br>React
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
             <br>Next.js
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+            <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" />
             <br>Vue
         </td>
     </tr>
     <tr>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
             <br>Python
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
             <br>Node.js
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
             <br>C++
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+            <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" />
             <br>Solidity
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+            <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" />
             <br>Rust
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" />
             <br>Go
         </td>
     </tr>
@@ -82,4 +87,5 @@ Webサイト開発およびブロックチェーン関連プロジェクトに�
 <br><br>
 </div>
 
-<h2 align="center">Coding is my life! 🌍✨</h2>
+<h2 align="center">一生に一度の出会いであると思い、目の前の人・瞬間を大切にする
+🌍✨</h2>
