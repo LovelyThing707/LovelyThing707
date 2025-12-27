@@ -3,10 +3,22 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full-stack+developer;and+I'm+a+Blockchain+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
 </p>
 
-<h3 align="center">
-I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
-<br>I have rich experience websites and blockchain projects development.
-</h3>
+
+私はフルスタックエンジニア兼ブロックチェーン開発者として、  
+Webサイト開発およびブロックチェーン関連プロジェクトにおいて、数多くの実務経験を積んできました。
+
+**「生まれたときに才能を持って生まれた人はいない。ただ一つ、努力としてだけ自分が望むすべてを取得することができる。」**  
+これが私のモットーです。
+
+常に自分の実力を客観的に分析し、  
+成長のために継続して努力しなければ、本当の成功の価値は感じられないと考えています。
+
+私はこれまで、常にこの考え方を大切にしながら仕事に向き合ってきました。  
+どのような業務に対しても全力を尽くし、  
+困難な課題に直面しても決して恐れず、前向きに乗り越える姿勢を持っています。
+
+たとえプロジェクトに高い難易度や課題があったとしても、  
+最後まで諦めず、定められた期間内に**高品質な成果物を完成させること**をお約束します。
 <br clear="both">
 
 ###
